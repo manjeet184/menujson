@@ -1,29 +1,14 @@
-[{
-  "_id": {
-    "$oid": "608c27f3e165f6137f02b549"
+[
+  {
+    "id": 1,
+    "title": "Post 1"
   },
-  "name": "Four cheese",
-  "price": 799,
-  "size": "Medium",
-  "image": "uploads/1619798003389-788648576.png",
-  "createdAt": {
-    "$date": "2021-04-30T15:53:23.393Z"
+  {
+    "id": 2,
+    "title": "Post 2"
   },
-  "updatedAt": {
-    "$date": "2021-04-30T15:53:23.393Z"
+  {
+    "id": 3,
+    "title": "Post 3"
   }
-},{
-  "_id": {
-    "$oid": "608c2960e165f6137f02b552"
-  },
-  "name": "Havana special",
-  "price": 599,
-  "size": "Small",
-  "image": "uploads/1619798368145-612682611.png",
-  "createdAt": {
-    "$date": "2021-04-30T15:59:28.146Z"
-  },
-  "updatedAt": {
-    "$date": "2021-04-30T15:59:28.146Z"
-  }
-}]
+]
