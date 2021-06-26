@@ -14,20 +14,6 @@
   }
 },{
   "_id": {
-    "$oid": "608c28e8e165f6137f02b550"
-  },
-  "name": "Chicken premier",
-  "price": 899,
-  "size": "Medium",
-  "image": "uploads/1619798248317-105704752.png",
-  "createdAt": {
-    "$date": "2021-04-30T15:57:28.319Z"
-  },
-  "updatedAt": {
-    "$date": "2021-04-30T15:57:28.319Z"
-  }
-},{
-  "_id": {
     "$oid": "608c2960e165f6137f02b552"
   },
   "name": "Havana special",
