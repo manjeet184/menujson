@@ -28,20 +28,6 @@
   }
 },{
   "_id": {
-    "$oid": "608c2904e165f6137f02b551"
-  },
-  "name": "Caramel pineapple",
-  "price": 799,
-  "size": "Small",
-  "image": "uploads/1619798276630-463888204.png",
-  "createdAt": {
-    "$date": "2021-04-30T15:57:56.632Z"
-  },
-  "updatedAt": {
-    "$date": "2021-04-30T15:57:56.632Z"
-  }
-},{
-  "_id": {
     "$oid": "608c2960e165f6137f02b552"
   },
   "name": "Havana special",
